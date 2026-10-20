@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,11 +65,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
