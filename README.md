@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3412-find-mirror-score-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3412-find-mirror-score-of-a-string/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -88,15 +90,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,12 +146,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
