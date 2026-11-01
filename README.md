@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
