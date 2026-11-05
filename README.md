@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3412-find-mirror-score-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3412-find-mirror-score-of-a-string/) | Medium |
 ## Greedy
@@ -184,4 +185,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
