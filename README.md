@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3412-find-mirror-score-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3412-find-mirror-score-of-a-string/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2747-count-zero-request-servers](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -208,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,4 +221,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
