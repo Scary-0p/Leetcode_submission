@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Scary-0p/Leetcode_submission/tree/main/0242-valid-anagram/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3412-find-mirror-score-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3412-find-mirror-score-of-a-string/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3412-find-mirror-score-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3412-find-mirror-score-of-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
