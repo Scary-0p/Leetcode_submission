@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2747-count-zero-request-servers](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3412-find-mirror-score-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3412-find-mirror-score-of-a-string/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3412-find-mirror-score-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3412-find-mirror-score-of-a-string/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -187,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
