@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Scary-0p/Leetcode_submission/tree/main/0242-valid-anagram/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Scary-0p/Leetcode_submission/tree/main/LeetCode/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
